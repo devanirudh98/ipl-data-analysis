@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - plotly
   - ipywidgets
+  - IPython.display
